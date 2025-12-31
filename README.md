@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReactJS, NodeJS, ExpressJS, MongoDB**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Selenium**
 
 - 👨‍💻 All of my projects are available at [https://nethmini6.github.io/Portfolio/](https://nethmini6.github.io/Portfolio/)
 
